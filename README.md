@@ -1,7 +1,7 @@
 # SyntheticDatasetGenerator
 Welcome to the Synthetic Dataset Generator! This Python tool lets you create synthetic datasets using a customizable configuration dictionary. Whether you need data for testing, demos, or just to mess around with some fun fake numbers, this generator has you covered.
 
-> **Disclaimer:** I do not recommend using this generator for training machine learning models. Use it for fun, testing, or whatever u need it for.
+> **Disclaimer:** I do not recommend using this generator for training machine/deep learning models. Use it for fun, testing, or whatever u need it for. 
 
 ---
 
